@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufino-canjamba-163b97243/)
 
 ![rufinocanjamba GitHub stats](https://github-readme-stats.vercel.app/api?username=rufinocanjamba&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufinocanjamba&layout=compact)](https://github.com/rufinocanjamba)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufinocanjamba&layout=compact&theme=tokyonight)](https://github.com/rufinocanjamba)
 
 <!-- <div style="display: inline-block"><br>
     <img align="center"alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
