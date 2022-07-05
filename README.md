@@ -17,7 +17,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/rufinocanjamba/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufino-canjamba-163b97243/)
 
-![snake animation](https://github.com/rufinocanjamba/rufinocanjamba/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/rufinocanjamba/rufinocanjamba/blob/output/github-contribution-grid-snake.svg)
+
 
 Apaixando pela tecnologia e buscando uma evolução constante!
 <br>
