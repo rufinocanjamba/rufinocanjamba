@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Generate Datas
 on:
 schedule: # execute every 12 hours
@@ -14,7 +12,7 @@ steps:
 - uses: Platane/snk@master
 id: snake-gif
 with:
-github_user_name: rufinocanjamba
+github_user_name: DevBatista1
 svg_out_path: dist/github-contribution-grid-snake.svg
 - uses: crazy-max/ghaction-github-pages@v2.1.3
 with:
